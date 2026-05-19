@@ -12,7 +12,6 @@ Nice meeting you, I'm **Babita!**
 - 🌱 Exploring UI/UX Design and API Integration  
 - ⚡ Fun fact: If I’m not coding then I’m probably designing app UIs or learning new tech 🚀  
 
----
 
 # 🌐 Socials:
 
@@ -24,7 +23,6 @@ Nice meeting you, I'm **Babita!**
 <a href="https://linkedin.com/in/babitamittal/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
----
 
 # 💻 Tech Stack:
 
@@ -57,16 +55,7 @@ Responsive personal portfolio website showcasing projects, skills, and developme
 - 🏅 Personality Development Mentor – Earn While Learn Scheme  
 - 🏅 Organized technical and college events as part of Tunic Club  
 
----
 
-# 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Babita153&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babita153&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 # 🔥 GitHub Streak:
 
@@ -76,8 +65,3 @@ Responsive personal portfolio website showcasing projects, skills, and developme
 
 ---
 
-# ✨ Quote
-
-> “Keep learning, keep building, and success will follow.”
-
----
