@@ -56,12 +56,3 @@ Responsive personal portfolio website showcasing projects, skills, and developme
 - 🏅 Organized technical and college events as part of Tunic Club  
 
 
-
-# 🔥 GitHub Streak:
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Babita153&theme=tokyonight"/>
-</p>
-
----
-
