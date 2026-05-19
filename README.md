@@ -13,18 +13,11 @@ Nice meeting you, I'm **Babita!**
 # 🌐 Socials:
 
 <p align="left">
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/babitamittal/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 # 📌 Featured Projects
-
-### 🚌 Bus Tracking & Ticket Booking App
-A React Native application with live bus tracking, seat booking, ticket management, and authentication system.
 
 ### 🍔 SnapEats – Food Delivery App
 Modern food delivery application with Add to Cart, Authentication, Order History, and API Integration.
