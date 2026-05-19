@@ -21,14 +21,6 @@ Nice meeting you, I'm **Babita!**
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-# 💻 Tech Stack:
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,firebase,github,vscode,androidstudio" />
-</p>
-
----
-
 # 📌 Featured Projects
 
 ### 🚌 Bus Tracking & Ticket Booking App
