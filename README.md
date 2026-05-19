@@ -6,11 +6,8 @@ Nice meeting you, I'm **Babita!**
 
 - 🔭 I’m currently working on React Native Projects  
 - 💬 Ask me about React Native, Frontend & Mobile App Development  
-- 📚 Currently learning Backend Development & Firebase  
-- 🎓 B.Tech CSE Student at JMIT, Haryana  
-- 🚀 Passionate about building modern mobile applications  
-- 🌱 Exploring UI/UX Design and API Integration  
-- ⚡ Fun fact: If I’m not coding then I’m probably designing app UIs or learning new tech 🚀  
+- 📚 Currently learning Backend Development & Firebase 
+- 🎓 B.Tech CSE Student at JMIT, Haryana 
 
 
 # 🌐 Socials:
