@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Babita Mittal
+# 👋 Hi, I'm Babita 
 
 🎓 B.Tech CSE Student at JMIT, Haryana  
-📱 React Native Developer | Frontend Enthusiast  
-🌱 Currently learning Backend Development, Firebase & MongoDB
-
+📱 React Native Developer | Frontend Developer | JavaScript | Firebase | Node.js | REST APIs | React.js
 ## 🚀 About Me
 
 - 📱 Building React Native applications
