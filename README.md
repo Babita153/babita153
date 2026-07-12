@@ -1,28 +1,38 @@
-# 👋 About Me:
+# 👋 Hi, I'm Babita Mittal
 
-Hi there 👋
+🎓 B.Tech CSE Student at JMIT, Haryana  
+📱 React Native Developer | Frontend Enthusiast  
+🌱 Currently learning Backend Development, Firebase & MongoDB
 
-Nice meeting you, I'm **Babita!**
+## 🚀 About Me
 
-- 🔭 I’m currently working on React Native Projects  
-- 💬 Ask me about React Native, Frontend & Mobile App Development  
-- 📚 Currently learning Backend Development & Firebase 
-- 🎓 B.Tech CSE Student at JMIT, Haryana 
+- 📱 Building React Native applications
+- 💡 Interested in Full Stack Mobile Development
+- 📚 Learning Node.js, Express.js & MongoDB
+- 🎯 Preparing for Software Developer roles
 
+## 🛠️ Tech Stack
 
-### 🌐 Socials:
+**Languages:** JavaScript, Java (Basic)
 
-<p align="left">
-<a href="https://linkedin.com/in/babitamittal/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Frontend:** React Native, React.js, HTML, CSS
 
+**Backend:** Node.js, Express.js
 
-### 🏆 Achievements
+**Database:** MongoDB, Firebase
 
-- 🏅 Infosys Springboard – Cohort 7 Selected Participant  
-- 🏅 TCS iON Career Edge – Young Professional  
-- 🏅 Personality Development Mentor – Earn While Learn Scheme  
-- 🏅 Organized technical and college events as part of Tunic Club  
+**Tools:** Git, GitHub, VS Code, Android Studio, Postman
 
+## 🌟 Featured Projects
 
+- 💸 Expense Tracker App
+- 🦷 Radiant Smiles (Dental Clinic App)
+- 🍔 Food Delivery App
+- 🚌 ApniBus – Bus Tracking System
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/babita-mittal-650747289
+- 🌐 Portfolio: https://portfoliobabita.vercel.app
+
+⭐ Thanks for visiting my profile!
