@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Babita 
 
+📱 React Native Developer | Frontend Developer | JavaScript | Firebase | Node.js | Express.js| MongoDB | REST APIs 
 🎓 B.Tech CSE Student at JMIT, Haryana  
-📱 React Native Developer | Frontend Developer | JavaScript | Firebase | Node.js | Express.js| MongoDB | REST APIs |
-## 🚀 About Me
-
-- 📱 Building React Native applications
-- 💡 Interested in Full Stack Mobile Development
 
 ## 🌟 Featured Projects
 
